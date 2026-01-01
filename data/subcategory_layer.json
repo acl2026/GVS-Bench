@@ -1,0 +1,14 @@
+{
+      "Life Safety and Physical Harm":"Baseline Human Safety Layer",
+      "Minor Exploitation and Illegal Sexual Content":"Baseline Human Safety Layer",
+      "Violence, Hate, and Extremism":"Baseline Human Safety Layer",
+      "Cybercrime Assistance and Illegal Information Exposure":"Baseline Human Safety Layer",
+      "Bias, Discrimination, and Unfairness":"Universal Alignment and Integrity Layer",
+      "Disinformation Fraud and Identity Manipulation":"Universal Alignment and Integrity Layer",
+      "Misinformation and Factual Hallucinations":"Universal Alignment and Integrity Layer",
+      "Copyright Infringement and Data Leakage":"Universal Alignment and Integrity Layer",
+      "Social Appropriateness and Low-Value Output":"Universal Alignment and Integrity Layer",
+      "Identity Hallucinations and Improper Interaction":"Universal Alignment and Integrity Layer",
+      "Cultural, Historical, and Religious Sensitivities":"Contextual and Pluralistic Values Layer",
+      "Political Leanings, Ideology, and Biased Guidance":"Contextual and Pluralistic Values Layer"
+}
